@@ -6,4 +6,4 @@ These are the things you need.
 - Install Scikit-Learn
 
 ## How to Use
-Open AdsCTR.py and Change "train.csv" To the location of train.csv downloaded from https://www.kaggle.com/c/avazu-ctr-prediction/data
+Open AdsCTR.py and Change "train.csv" To the location of train.csv downloaded from [Here](https://www.kaggle.com/c/avazu-ctr-prediction/data)
